@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\newconn\newconn\bin\Debug\newconn.exe.config
+C:\Users\HP\source\repos\newconn\newconn\bin\Debug\newconn.exe
+C:\Users\HP\source\repos\newconn\newconn\bin\Debug\newconn.pdb
+C:\Users\HP\source\repos\newconn\newconn\bin\Debug\NLog.dll
+C:\Users\HP\source\repos\newconn\newconn\bin\Debug\NLog.xml
+C:\Users\HP\source\repos\newconn\newconn\obj\Debug\newconn.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\newconn\newconn\obj\Debug\newconn.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\newconn\newconn\obj\Debug\Interop.EnvDTE.dll
+C:\Users\HP\source\repos\newconn\newconn\obj\Debug\Interop.TERMMGRLib.dll
+C:\Users\HP\source\repos\newconn\newconn\obj\Debug\Interop.VSLangProj.dll
+C:\Users\HP\source\repos\newconn\newconn\obj\Debug\Interop.VSLangProj2.dll
+C:\Users\HP\source\repos\newconn\newconn\obj\Debug\newconn.csproj.ResolveComReference.cache
+C:\Users\HP\source\repos\newconn\newconn\obj\Debug\newconn.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\newconn\newconn\obj\Debug\newconn.csproj.CopyComplete
+C:\Users\HP\source\repos\newconn\newconn\obj\Debug\newconn.exe
+C:\Users\HP\source\repos\newconn\newconn\obj\Debug\newconn.pdb
